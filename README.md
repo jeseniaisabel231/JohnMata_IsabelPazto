@@ -6,3 +6,17 @@
 > **Planteamiento del problema**
 >
 > En la actualidad, la seguridad y la gestión eficiente de datos son fundamentales en el desarrollo de aplicaciones. Este proyecto tiene como objetivo implementar una aplicación que permita a los usuarios autenticarse mediante su correo electrónico, garantizando así un acceso seguro y personalizado. Además, se integrará la funcionalidad de subir fotos a Firebase Storage, lo que facilitará el almacenamiento y la gestión de imágenes de manera escalable y eficiente. Con estas características, buscamos ofrecer una experiencia de usuario fluida y segura.
+
+🚮 **Comandos para la implementacion del proyecto**
+
+<details> 
+    <summary>🧩 ionic start miappfirebase blanck  --type=angular  --capacitor </summary>
+      
+>     - En esta sección el usuario podrá registrarse llenando los siguien
+>     - **`start`**: Inicia un nuevo proyecto de Ionic.
+>     - **`miappfirebase`**: El nombre del proyecto.
+>     - **`blank`**: Usa una plantilla en blanco, es decir, un proyecto vacío sin componentes adicionales de eje
+>     - **`-type=angular`**: Indica que la aplicación utilizará Angular como el framework principal.
+>     - **`-capacitor`**: Añade Capacitor, la herramienta de Ionic que permite integrar la app con 
+      características nativas en iOS, Android y web.
+>  
