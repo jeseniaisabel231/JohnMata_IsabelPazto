@@ -12,21 +12,19 @@
 <details> 
     <summary>🧩 ionic start miappfirebase blanck  --type=angular  --capacitor </summary>
       
->     - **`start`**: Inicia un nuevo proyecto de Ionic.
->     - **`miappfirebase`**: El nombre del proyecto.
->     - **`blank`**: Usa una plantilla en blanco, es decir, un proyecto vacío sin componentes adicionales de eje
->     - **`-type=angular`**: Indica que la aplicación utilizará Angular como el framework principal.
->     - **`-capacitor`**: Añade Capacitor, la herramienta de Ionic que permite integrar la app con características nativas en iOS, Android y web.
+>     - start: Inicia un nuevo proyecto de Ionic.
+>     - miappfirebase: El nombre del proyecto.
+>     - blank: Usa una plantilla en blanco, es decir, un proyecto vacío sin componentes adicionales de eje
+>     - --type=angular: Indica que la aplicación utilizará Angular como el framework principal.
+>     - --capacitor: Añade Capacitor, la herramienta de Ionic que permite integrar la app con características nativas en iOS, Android y web.
 >
 </details>
 
 <details> 
     <summary>🧩 ionic g page modal</summary>
       
->     - **`ionic g`**: `g` es abreviatura de `generate`, que significa "generar" en Ionic.
->     - **`page`**: Especifica que se generará una página.
->     - **`modal`**: El nombre de la página que se creará.
-
->     Esto generará una carpeta `modal` con archivos `.html`, `.ts`, y `.scss` para la estructura de la página en Angular.
+>     - ionic g: `g` es abreviatura de `generate`, que significa "generar" en Ionic.
+>     - page: Especifica que se generará una página.
+>     - modal: El nombre de la página que se creará. Esto generará una carpeta `modal` con archivos `.html`, `.ts`, y `.scss` para la estructura de la página en Angular.
 >
 </details>
