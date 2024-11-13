@@ -18,7 +18,7 @@ import { environment } from 'src/environments/environment';
   providers: [
     { provide: RouteReuseStrategy, useClass: IonicRouteStrategy },
     provideFirebaseApp(() =>
-      initializeApp(environment.firebase)//guardado en la variable enviroment y la clave es firebase
+      initializeApp(environment.firebase)//guardado en la variable enviroment y la clave es firebase por lo que es importante
     ),
     provideAuth(() => getAuth()),
     provideFirestore(() => getFirestore()),
