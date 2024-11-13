@@ -28,3 +28,32 @@
 >     - modal: El nombre de la página que se creará. Esto generará una carpeta `modal` con archivos `.html`, `.ts`, y `.scss` para la estructura de la página en Angular.
 >
 </details>
+
+<details> 
+    <summary>🧩 ionic g service services/data</summary>
+      
+>     - service: Indica que se creará un servicio.
+>     - services/data: `services` es el directorio donde se guardará el servicio, y `data` es el nombre del servicio.
+>
+</details>
+
+<details> 
+    <summary>🧩 ionic g service services/fire</summary>
+      
+>     crea otro servicio llamado fire dentro de la carpeta services. En el contexto de Firebase, este servicio probablemente se use para manejar la conexión y las funciones relacionadas con Firebase
+> 
+</details>
+
+<details> 
+    <summary>🧩 ng add @angular/fire</summary>
+      
+>     instala e integra @angular/fire, que es la biblioteca oficial de Angular para Firebase. Esto simplifica el uso de Firebase 
+> 
+</details>
+
+<details> 
+    <summary>🧩 npm i @capacitor/camera</summary>
+      
+>     instala el plugin de Capacitor para la cámara. Este plugin permite acceder a la cámara del dispositivo
+> 
+</details>
