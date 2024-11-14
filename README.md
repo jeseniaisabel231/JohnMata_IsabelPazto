@@ -102,3 +102,29 @@
 >     • Abre el proyecto de Android en Android Studio, donde se puede construir y
 >       probar la aplicación en un dispositivo Android o en un emulador.
 </details>
+
+🚮 **Actividades realizadas**
+
+<details> 
+    <summary>🧩 <strong> John Jairo Mata Manosalvas </strong> </summary>
+  
+>     • Autenticacion
+</details>
+
+<details> 
+    <summary>🧩 <strong> Jesenia Isabel Pazto Corregidor </strong> </summary>
+  
+>     • Avatar
+>     • Readme
+</details>
+
+🚮 ** Funcionamiento del APK**
+
+<img src = 'https://github.com/user-attachments/assets/56a20a64-adf7-4730-ba63-7192696a8730' height='600px'>
+  
+
+🚮 ** APK**
+> Aquí puedes encontrar el archivo comprimido que contiene el APK de la aplicación.
+[JMata_IPazto.zip](https://github.com/user-attachments/files/17741081/JMata_IPazto.zip)
+
+
