@@ -10,7 +10,7 @@
 🚮 **Comandos para la implementacion del proyecto**
 
 <details> 
-    <summary>🧩 ionic start miappfirebase blanck  --type=angular  --capacitor </summary>
+    <summary>🧩<strong> ionic start miappfirebase blanck  --type=angular  --capacitor </strong> </summary>
       
 >     • start: Inicia un nuevo proyecto de Ionic.
 >     • miappfirebase: El nombre del proyecto.
@@ -23,7 +23,7 @@
 </details>
 
 <details> 
-    <summary>🧩 ionic g page modal</summary>
+    <summary>🧩 <strong>ionic g page modal </strong> </summary>
       
 >     • ionic g: `g` es abreviatura de `generate`, que significa "generar" en Ionic.
 >     • page: Especifica que se generará una página.
@@ -33,7 +33,7 @@
 </details>
 
 <details> 
-    <summary>🧩 ionic g service services/data</summary>
+    <summary>🧩<strong> ionic g service services/data</strong> </summary>
       
 >     • service: Indica que se creará un servicio.
 >     • services/data: `services` es el directorio donde se guardará el servicio, y `data`
@@ -42,7 +42,7 @@
 </details>
 
 <details> 
-    <summary>🧩 ionic g service services/fire</summary>
+    <summary>🧩<strong> ionic g service services/fire </strong></summary>
       
 >     • Crea otro servicio llamado fire dentro de la carpeta services. En el contexto de
 >       Firebase, este servicio probablemente se use para manejar la conexión y las funciones
@@ -51,7 +51,7 @@
 </details>
 
 <details> 
-    <summary>🧩 ng add @angular/fire</summary>
+    <summary>🧩 <strong> ng add @angular/fire </strong> </summary>
       
 >     • Instala e integra @angular/fire, que es la biblioteca oficial de Angular para Firebase.
 >       Esto simplifica el uso de Firebase 
@@ -59,7 +59,7 @@
 </details>
 
 <details> 
-    <summary>🧩 npm i @capacitor/camera</summary>
+    <summary>🧩<strong> npm i @capacitor/camera </strong></summary>
       
 >     • Instala el plugin de Capacitor para la cámara. Este plugin permite acceder a la cámara del dispositivo
 > 
@@ -68,12 +68,37 @@
 🚮 **Comandos para el APK**
 
 <details> 
-    <summary>🧩 ionic start miappfirebase blanck  --type=angular  --capacitor </summary>
-      
->     - start: Inicia un nuevo proyecto de Ionic.
->     - miappfirebase: El nombre del proyecto.
->     - blank: Usa una plantilla en blanco, es decir, un proyecto vacío sin componentes adicionales de eje
->     - --type=angular: Indica que la aplicación utilizará Angular como el framework principal.
->     - --capacitor: Añade Capacitor, la herramienta de Ionic que permite integrar la app con características nativas en iOS, Android y web.
->
+    <summary>🧩 <strong>ionic capacitor add android </strong> </summary>
+  
+>     • Agrega la plataforma Android al proyecto.
+</details>
+
+<details> 
+    <summary>🧩 <strong> ionic build </strong> </summary>
+  
+>     • Compila la aplicación para la producción, generando los archivos web
+>       necesarios (HTML, CSS, JavaScript) optimizados para ser desplegados en dispositivos móviles.
+</details>
+
+🚮 **Despliegue en android**
+
+<details> 
+    <summary>🧩 <strong> npx cap copy android </strong> </summary>
+  
+>     • Copia los archivos generados en la compilación (www) dentro del proyecto
+>       nativo de Android.
+</details>
+
+<details> 
+    <summary>🧩 <strong> npx cap sync android </strong> </summary>
+  
+>     • Sincroniza el proyecto nativo con cualquier cambio en los plugins o la
+>       configuración del proyecto de Capacitor para Android.
+</details>
+
+<details> 
+    <summary>🧩 <strong> npx cap open android </strong> </summary>
+  
+>     • Abre el proyecto de Android en Android Studio, donde se puede construir y
+>       probar la aplicación en un dispositivo Android o en un emulador.
 </details>
